@@ -1,1 +1,1 @@
-# STT (Sharpnesse's Tether Tool)
+# Stt (Sharpnesse's tether tool)
